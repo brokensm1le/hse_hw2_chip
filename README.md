@@ -26,7 +26,7 @@
   <img src="/pictures/1cst-p3.png" width="350" />
 </p>
 
-После был сделан fastqc для одного из ChIP-seq(**ENCFF081DDG.fastq**):
+После был сделан fastqc для одного из ChIP-seq(**ENCFF565MIO.fastq**):
 
 Вообще не особо нужно было делать подрезание, но после очевидно стало лучше...
 
