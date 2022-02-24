@@ -65,4 +65,4 @@
 
 Таблица со статистикой по каждому из 3 образцов:
 
-<img src="/pictures/table.png" width="1000" />
+<img src="/pictures/table.png" width="800" />
