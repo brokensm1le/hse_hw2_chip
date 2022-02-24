@@ -11,17 +11,17 @@
 Было:
 
 <p float="left">
-  <img src="/pictures/1cs-p4.png" width="300" />
-  <img src="/pictures/1cs-p1.png" width="300" />
-  <img src="/pictures/1cs-p2.png" width="300" />
-  <img src="/pictures/1cs-p3.png" width="300" />
+  <img src="/pictures/1cs-p4.png" width="330" />
+  <img src="/pictures/1cs-p1.png" width="330" />
+  <img src="/pictures/1cs-p2.png" width="330" />
+  <img src="/pictures/1cs-p3.png" width="330" />
 </p>
 
 Стало:
 
 <p float="left">
-  <img src="/pictures/1cst-p4.png" width="400" />
-  <img src="/pictures/1cst-p1.png" width="400" />
-  <img src="/pictures/1cst-p2.png" width="400" />
-  <img src="/pictures/1cst-p3.png" width="400" />
+  <img src="/pictures/1cst-p4.png" width="330" />
+  <img src="/pictures/1cst-p1.png" width="330" />
+  <img src="/pictures/1cst-p2.png" width="330" />
+  <img src="/pictures/1cst-p3.png" width="330" />
 </p>
