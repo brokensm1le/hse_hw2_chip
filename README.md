@@ -73,6 +73,6 @@
 
 
 <p float="left">
-  <img src="/pictures/d_venna1.png" width="350" />
-  <img src="/pictures/d_venna2.png" width="350" />
+  <img src="/pictures/d_venna1.png" width="380" />
+  <img src="/pictures/d_venna2.png" width="380" />
 </p>
