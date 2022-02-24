@@ -34,17 +34,17 @@
 Было:
 
 <p float="left">
-  <img src="/pictures/2cs-p1.png" width="350" />
-  <img src="/pictures/2cs-p2.png" width="350" />
-  <img src="/pictures/2cs-p3.png" width="350" />
-  <img src="/pictures/2cs-p4.png" width="350" />
+  <img src="/pictures/2ch-p1.png" width="350" />
+  <img src="/pictures/2ch-p2.png" width="350" />
+  <img src="/pictures/2ch-p3.png" width="350" />
+  <img src="/pictures/2ch-p4.png" width="350" />
 </p>
 
 Стало:
 
 <p float="left">
   <img src="/pictures/2cst-p1.png" width="350" />
-  <img src="/pictures/2cst-p2.png" width="350" />
-  <img src="/pictures/2cst-p3.png" width="350" />
-  <img src="/pictures/2cst-p4.png" width="350" />
+  <img src="/pictures/2cht-p2.png" width="350" />
+  <img src="/pictures/2cht-p3.png" width="350" />
+  <img src="/pictures/2cht-p4.png" width="350" />
 </p>
