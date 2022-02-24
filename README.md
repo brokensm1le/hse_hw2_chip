@@ -4,9 +4,7 @@
 
 Для задания была выбрана клеточная линия - **MCF-7**, гистоновая метка - **H2AFZ**:
 
-Для начала была сделан fastqc для одного из ChIP-seq(**ENCFF081DDG.fastq**):
-
-
+Для начала был сделан fastqc для одного из ChIP-seq(**ENCFF081DDG.fastq**):
 
 После подрезания, стало, конечно, лучше...
 
@@ -26,4 +24,27 @@
   <img src="/pictures/1cst-p1.png" width="350" />
   <img src="/pictures/1cst-p2.png" width="350" />
   <img src="/pictures/1cst-p3.png" width="350" />
+</p>
+
+После был сделан fastqc для одного из ChIP-seq(**ENCFF081DDG.fastq**):
+
+Вообще не особо нужно было делать подрезание, но после очевидно стало лучше...
+
+
+Было:
+
+<p float="left">
+  <img src="/pictures/2cs-p1.png" width="350" />
+  <img src="/pictures/2cs-p2.png" width="350" />
+  <img src="/pictures/2cs-p3.png" width="350" />
+  <img src="/pictures/2cs-p4.png" width="350" />
+</p>
+
+Стало:
+
+<p float="left">
+  <img src="/pictures/2cst-p1.png" width="350" />
+  <img src="/pictures/2cst-p2.png" width="350" />
+  <img src="/pictures/2cst-p3.png" width="350" />
+  <img src="/pictures/2cst-p4.png" width="350" />
 </p>
