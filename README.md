@@ -53,9 +53,9 @@
 Тут все хорошо, думаю тут не имеет смысла делать подрезание...
 
 <p float="left">
-  <img src="/pictures/3cs-p1.png" width="350" />
-  <img src="/pictures/3cs-p2.png" width="350" />
-  <img src="/pictures/3cs-p3.png" width="350" />
-  <img src="/pictures/3cs-p4.png" width="350" />
+  <img src="/pictures/3cst-p1.png" width="350" />
+  <img src="/pictures/3cst-p2.png" width="350" />
+  <img src="/pictures/3cst-p3.png" width="350" />
+  <img src="/pictures/3cst-p4.png" width="350" />
 </p>
 
