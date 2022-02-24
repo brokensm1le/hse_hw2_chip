@@ -1,6 +1,6 @@
 # hse_hw2_chip
 
-Ссылка на Google Colab:
+Ссылка на Google Colab: https://colab.research.google.com/drive/1r6UkS9vF3_KdZ2Sa3OuXEHlZbww16XYo?usp=sharing
 
 Для задания была выбрана клеточная линия - **MCF-7**, гистоновая метка - **H2AFZ**:
 
