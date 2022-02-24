@@ -66,3 +66,13 @@
 Таблица со статистикой по каждому из 3 образцов:
 
 <img src="/pictures/table.png" width="800" />
+
+## Cравнение результатов
+
+Диаграммы Венна:
+
+
+<p float="left">
+  <img src="/pictures/d_venna1.png" width="350" />
+  <img src="/pictures/d_venna2.png" width="350" />
+</p>
