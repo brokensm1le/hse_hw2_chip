@@ -30,7 +30,6 @@
 
 Вообще не особо нужно было делать подрезание, но после очевидно стало лучше...
 
-
 Было:
 
 <p float="left">
@@ -48,3 +47,15 @@
   <img src="/pictures/2cht-p3.png" width="350" />
   <img src="/pictures/2cht-p4.png" width="350" />
 </p>
+
+Насчет файла контроля:
+
+Тут все хорошо, думаю тут не имеет смысла делать подрезание...
+
+<p float="left">
+  <img src="/pictures/3cs-p1.png" width="350" />
+  <img src="/pictures/3cs-p2.png" width="350" />
+  <img src="/pictures/3cs-p3.png" width="350" />
+  <img src="/pictures/3cs-p4.png" width="350" />
+</p>
+
