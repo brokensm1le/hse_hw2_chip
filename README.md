@@ -6,15 +6,15 @@
 
 Для начала была сделан fastqc для одного из ChIP-seq:
 
-После подрезания, стало, конечно, лучше
+После подрезания, стало, конечно, лучше...
 
 Было:
 
 <p float="left">
-  <img src="/pictures/1cs-p4.png" width="400" />
-  <img src="/pictures/1cs-p1.png" width="400" />
-  <img src="/pictures/1cs-p2.png" width="400" />
-  <img src="/pictures/1cs-p3.png" width="400" />
+  <img src="/pictures/1cs-p4.png" width="300" />
+  <img src="/pictures/1cs-p1.png" width="300" />
+  <img src="/pictures/1cs-p2.png" width="300" />
+  <img src="/pictures/1cs-p3.png" width="300" />
 </p>
 
 Стало:
