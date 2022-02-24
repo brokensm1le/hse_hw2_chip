@@ -74,5 +74,5 @@
 
 <p float="left">
   <img src="/pictures/d_venna1.png" width="380" />
-  <img src="/pictures/d_venna2.png" width="380" />
+  <img src="/pictures/d_venna2.png" width="400" />
 </p>
