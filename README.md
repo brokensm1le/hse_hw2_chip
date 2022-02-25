@@ -65,7 +65,7 @@
 
 Таблица со статистикой по каждому из 3 образцов:
 
-<img src="/pictures/table.png" width="800" />
+<img src="/pictures/_table.png" width="800" />
 
 
 ```
