@@ -79,8 +79,8 @@ A:
 
 
 <p float="left">
-  <img src="/pictures/d_venna1.png" width="400" />
-  <img src="/pictures/d_venna2.png" width="400" />
+  <img src="/pictures/venna1.png" width="400" />
+  <img src="/pictures/venna2.png" width="400" />
 </p>
 
 ```
